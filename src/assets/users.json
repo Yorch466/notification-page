@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "imgsrc": "/public/images/avatar-mark-webber.webp"
+    },
+
+    {
+        "id": 2,
+        "imgsrc": "/public/images/avatar-angela-gray.webp"
+    },
+
+    {
+        "id": 3,
+        "imgsrc": "/public/images/avatar-jacob-thompson.webp"       
+    },
+
+    {
+        "id": 4,
+        "imgsrc": "/public/images/avatar-kimberly-smith.webp"      
+    },
+
+    {
+        "id": 5,
+        "imgsrc": "/public/images/avatar-nathan-peterson.webp"   
+    },
+
+    {
+        "id": 6,
+        "imgsrc": "/public/images/avatar-anna-kim.webp"
+    }
+]
